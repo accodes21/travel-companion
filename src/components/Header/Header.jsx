@@ -1,11 +1,9 @@
 import React from "react";
-import { Autocomplete } from "@react-google-maps/api";
+// import { Autocomplete } from "@react-google-maps/api";
 import { AppBar, Toolbar, Typography, InputBase, Box } from "@mui/material";
 import SearchIcon from '@mui/icons-material/Search';
-// import useStyles from "./styles"
 
 const Header = () => {
-    // const classes = useStyles()
     return(
         <>
         <AppBar position="static">
